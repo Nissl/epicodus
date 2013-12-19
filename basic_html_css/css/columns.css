@@ -1,0 +1,4 @@
+.column {
+  width: 33.3%; <!--or you can use pixels>
+  float: left;
+}
